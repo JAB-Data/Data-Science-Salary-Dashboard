@@ -1,4 +1,4 @@
-# Data Science Salary Dashboard (Excel)  
+# Data Science Salary Dashboard in Excel  
 **Real-time salary insights from 32,673+ data job postings worldwide (2024–2025 data)**  
 
 ### View the Live Interactive Dashboard:  https://1drv.ms/x/c/0a4e892d342065a5/IQCwD1WRfRRWQowEA5UyzWJyAWb6ZbdnlP2zDBj9_WeAvQU?e=9lByqM
@@ -32,15 +32,14 @@ Result → Median annual salary in USD
 
 **Top-paying countries** (Median): United States $118,940 · Sweden $118,140 · Canada $115,000
 
-### Built Entirely in Native Excel (No VBA, 100% shareable)
+### Built Entirely in Native Excel (no VBA, 100% shareable)
 - Dynamic Arrays + XLOOKUP + Data Validation + Conditional Formatting  
 - 32,673 cleaned rows with parsed skills  
 - All calculations update instantly  
 - Ready to extend – just drop new data into the “Data” sheet
 
 ### Repository Contents
-- `Salary_Dashboard.xlsx` – the complete interactive dashboard (download here)  
-- Raw data, calculator sheet, pre-calculated medians, dropdown lists
+- `Salary_Dashboard.xlsx` – raw data, calculator sheet, pre-calculated medians, dropdown lists
 
 ### For Recruiters & Hiring Managers
 Ensure your salaries are competitive and in line with market values.
