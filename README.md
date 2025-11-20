@@ -1,4 +1,5 @@
 # Data Science Salary Dashboard (Excel)  
+[![Excel Dashboard](https://img.shields.io/badge/Excel-Dashboard-brightgreen.svg)](https://1drv.ms/x/c/0a4e892d342065a5/IQAYt-PHrf1TRoZ5JBnBxvS9AdKk2fMAetk5FtCfl_QFqE4?e=VVQgqY) [![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-217346?logo=microsoft-excel&logoColor=white)]() [![Data Jobs](https://img.shields.io/badge/Data%20Jobs-32%2C673-blue)]()
 **Real-time salary insights from 32,673+ data job postings worldwide (2024–2025 data)**  
 
 [![Excel Dashboard](https://img.shields.io/badge/Excel-Dashboard-brightgreen.svg)](https://1drv.ms/x/s!AqE7iantS1s-ks55n0oD0vXU5Z0?e=8vL2kP) [![Made with Excel](https://img.shields.io/badge/Made%20with-Excel-217346?logo=microsoft-excel&logoColor=white)]() [![Data Jobs](https://img.shields.io/badge/Data%20Jobs-32%2C673-blue)]()
