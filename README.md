@@ -1,11 +1,7 @@
 # Data Science Salary Dashboard (Excel)  
 **Real-time salary insights from 32,673+ data job postings worldwide (2024–2025 data)**  
 
-View the interactive salary dashboard here:  https://1drv.ms/x/c/0a4e892d342065a5/IQCwD1WRfRRWQowEA5UyzWJyAWb6ZbdnlP2zDBj9_WeAvQU?e=9lByqM
-
-### Live Interactive Dashboard (OneDrive – fully editable, dropdowns work for everyone)  
-One click → instantly play with the calculator (no download or login needed)  
-https://←←← YOUR CAN-EDIT ONEDRIVE LINK HERE  
+### View the Live Interactive Dashboard:  https://1drv.ms/x/c/0a4e892d342065a5/IQCwD1WRfRRWQowEA5UyzWJyAWb6ZbdnlP2zDBj9_WeAvQU?e=9lByqM
 
 ### What This Dashboard Does
 An interactive Excel tool that instantly shows **median salaries** for data roles based on real job postings.  
