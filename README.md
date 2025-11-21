@@ -6,7 +6,7 @@
 ### View the Live Interactive Dashboard:  https://1drv.ms/x/c/0a4e892d342065a5/IQCwD1WRfRRWQowEA5UyzWJyAWb6ZbdnlP2zDBj9_WeAvQU?e=9lByqM
 
 ### What This Dashboard Does
-An interactive Excel tool that instantly shows **median salaries** for data roles based on real job postings.  
+It is an interactive Excel tool that instantly shows **median salaries** for data roles based on real job postings.  
 Perfect for:
 
 - **Recruiters & Hiring Managers** – set competitive, market-accurate salaries in seconds  
