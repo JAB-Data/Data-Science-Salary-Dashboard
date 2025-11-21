@@ -1,4 +1,6 @@
 # Data Science Salary Dashboard in Excel  
+<img width="604" height="208" alt="Salary_Dashboard_image" src="https://github.com/user-attachments/assets/dba5c32f-e3f5-4ee6-81b9-8b65dad9be22" />
+
 **Real-time salary insights from 32,673+ data job postings worldwide (2024–2025 data)**  
 
 ### View the Live Interactive Dashboard:  https://1drv.ms/x/c/0a4e892d342065a5/IQCwD1WRfRRWQowEA5UyzWJyAWb6ZbdnlP2zDBj9_WeAvQU?e=9lByqM
